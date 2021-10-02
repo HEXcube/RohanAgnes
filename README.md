@@ -2,6 +2,6 @@
 Wedding website for Rohan Villoth &amp; Agnes Augustine
 
 ## LICENSE
-Except where otherwise noted, all original content here are released under [Creative
-Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). However,
-images and media are personal property, not meant to be shared without permission.
+Being based on [Story template from HTML5 UP](https://html5up.net/story), this website is released under
+[Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
+However, images and media are personal property, not meant to be shared without permission.
