@@ -1,3 +1,9 @@
+/* Fix wierd exta vertical space at the bottom of carousel */
+.gallery.style2 {
+    line-height: 0;
+}
+
+/* hardcode 600px as item size in carousel to prevent irregularity */
 .gallery.style2 article {
-    width: 25rem;
+    width: 600px;
 }
