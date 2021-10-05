@@ -19,3 +19,6 @@ with reference pages while testing and development. All new assets for this webs
 Being based on [Story template](https://html5up.net/story) from [HTML5 UP](https://html5up.net/license),
 this website is released under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 However, images and media are personal property, not meant to be shared without permission.
+
+## PREVIEW
+![Fullpage Screenshot](media/RohanAgnesFullpageShot.jpg)
