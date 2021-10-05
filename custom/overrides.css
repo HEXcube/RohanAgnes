@@ -7,3 +7,8 @@
 .gallery.style2 article {
     width: 600px;
 }
+
+.social-items .icons {
+    padding-left: 1em;
+    padding-right: 1em;
+}
