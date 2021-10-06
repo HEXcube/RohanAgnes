@@ -1,6 +1,9 @@
 # Rohan Agnes
 Wedding website for Rohan Villoth &amp; Agnes Augustine
 
+- On Netlify: [RohanAgnes.netlify.com](https://RohanAgnes.netlify.com)
+- On GitHub Pages: [HEXcube.github.io/RohanAgnes](https://HEXcube.github.io/RohanAgnes)
+
 ## HOW TO
 This is a single page website, with only `index.html`. the other pages `index-base.html` and
 `index-demo.html` are reference pages inherited from the template and not used on live website.
