@@ -14,6 +14,7 @@ with reference pages while testing and development. All new assets for this webs
 - [jQuery](https://jquery.com)
 - [Scrollex](https://github.com/ajlkn/jquery.scrollex)
 - [Responsive Tools](https://github.com/ajlkn/responsive-tools)
+- Images on carousel cropped with [Birme](https://birme.net)
 
 ## LICENSE
 Being based on [Story template](https://html5up.net/story) from [HTML5 UP](https://html5up.net/license),
