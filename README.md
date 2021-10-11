@@ -1,5 +1,5 @@
-# Rohan Agnes
-Wedding website for Rohan Villoth &amp; Agnes Augustine
+# Rohan &amp; Agnes
+Wedding website for Rohan Villoth &amp; Agnes Augusthy
 
 - On Netlify: [RohanAgnes.netlify.com](https://RohanAgnes.netlify.com)
 - On GitHub Pages: [HEXcube.github.io/RohanAgnes](https://HEXcube.github.io/RohanAgnes)
