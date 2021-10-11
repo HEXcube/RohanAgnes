@@ -17,6 +17,8 @@ with reference pages while testing and development. All new assets for this webs
 - [jQuery](https://jquery.com)
 - [Scrollex](https://github.com/ajlkn/jquery.scrollex)
 - [Responsive Tools](https://github.com/ajlkn/responsive-tools)
+- Favicon derived from [couple icon on Noun Project](https://thenounproject.com/term/couple/688840/)
+- Favicons and theme colors generated from [Real Favicon Generator](https://realfavicongenerator.net)
 - Social media and link meta tags generated from [MetaTags.io](https://metatags.io)
 - Images on carousel cropped with [Birme](https://birme.net)
 
