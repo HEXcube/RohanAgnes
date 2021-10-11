@@ -25,4 +25,4 @@ this website is released under [Creative Commons Attribution 4.0 International L
 However, images and media are personal property, not meant to be shared without permission.
 
 ## PREVIEW
-![Fullpage Screenshot](media/RohanAgnesFullpageShot.jpg)
+![Fullpage Screenshot](media/meta/RohanAgnesFullpageShot.jpg)
