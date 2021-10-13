@@ -20,6 +20,7 @@ with reference pages while testing and development. All new assets for this webs
 - Favicon derived from [couple icon on Noun Project](https://thenounproject.com/term/couple/688840/)
 - Favicons and theme colors generated from [Real Favicon Generator](https://realfavicongenerator.net)
 - Social media and link meta tags generated from [MetaTags.io](https://metatags.io)
+- Thumbnail and meta link previews cached by [GitHack CDN](https://raw.githack.com)
 - Images on carousel cropped with [Birme](https://birme.net)
 
 ## LICENSE
