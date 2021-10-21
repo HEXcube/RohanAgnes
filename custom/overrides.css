@@ -39,3 +39,7 @@
 .lg-container .lg-toolbar .lg-icon:hover {
   color: #fff !important;  
 }
+
+.lightgallery.justified-gallery {
+  padding-right: 10px;
+}
