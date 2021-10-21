@@ -1,14 +1,41 @@
 /* Fix wierd exta vertical space at the bottom of carousel */
 .gallery.style2 {
-    line-height: 0;
+  line-height: 0;
 }
 
 /* hardcode 600px as item size in carousel to prevent irregularity */
 .gallery.style2 article {
-    width: 600px;
+  width: 600px;
 }
 
 .social-items .icons {
-    padding-left: 1em;
-    padding-right: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.lightgallery .gallery-item {
+  width: 200px;
+  padding: 5px;
+}
+
+.lightgallery .gallery-item .gallery-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.lg-container .lg-next, .lg-container .lg-prev {
+  color: #fff9 !important;
+}
+
+.lg-container .lg-next:hover:not(.disabled), .lg-container .lg-prev:hover:not(.disabled) {
+  color: #fff !important;
+  box-shadow: none !important;
+}
+
+.lg-container .lg-toolbar .lg-icon {
+  color: #fff9 !important;  
+}
+
+.lg-container .lg-toolbar .lg-icon:hover {
+  color: #fff !important;  
 }

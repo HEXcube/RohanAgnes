@@ -21,7 +21,6 @@ with reference pages while testing and development. All new assets for this webs
 - Favicons and theme colors generated from [Real Favicon Generator](https://realfavicongenerator.net)
 - Social media and link meta tags generated from [MetaTags.io](https://metatags.io)
 - Thumbnail and meta link previews cached by [GitHack CDN](https://raw.githack.com)
-- Images on carousel cropped with [Birme](https://birme.net)
 
 ## LICENSE
 Being based on [Story template](https://html5up.net/story) from [HTML5 UP](https://html5up.net/license),
