@@ -8,7 +8,7 @@ jQuery("#lightgallery-campus")
     // lightGallery demo with justifiedGallery https://codepen.io/sachinchoolur/pen/poebzpV
     captions: false,
     rowHeight: 180,
-    margins: 5
+    margins: 5,
   })
   .on("jg.complete", function () {
     window.lightGallery(document.getElementById("lightgallery-campus"), {
@@ -32,7 +32,6 @@ jQuery("#lightgallery-campus")
       download: false,
       mobileSettings: {
         controls: false,
-        showCloseIcon: false,
       },
     })
   })
